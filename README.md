@@ -11,6 +11,10 @@
 
 ![JaqueSoares GitHub stats](https://github-readme-stats.vercel.app/api?username=JaqueSoares&show_icons=true&theme=dracula&count_private=true)
 
+## Ferramenta de desenvolvimento
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
 ## Tecnologias que eu uso no meu dia
 
 <div style="display: inline_block">
